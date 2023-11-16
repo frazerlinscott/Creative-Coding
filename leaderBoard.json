@@ -1,0 +1,92 @@
+[
+   {
+     "Place": 1,
+     "Name": "Leland ",
+     "Score": 9950,
+     "Date": "3/8"
+   },
+   {
+     "Place": 2,
+     "Name": "Dennis ",
+     "Score": 9900,
+     "Date": "4/8"
+   },
+   {
+     "Place": 3,
+     "Name": "Angel ",
+     "Score": 8550,
+     "Date": "6/8"
+   },
+   {
+     "Place": 4,
+     "Name": "Emile ",
+     "Score": 8300,
+     "Date": "23/8"
+   },
+   {
+     "Place": 5,
+     "Name": "Brad ",
+     "Score": 8250,
+     "Date": "27/8"
+   },
+   {
+     "Place": 6,
+     "Name": "Ramon ",
+     "Score": 8000,
+     "Date": "9/9"
+   },
+   {
+     "Place": 7,
+     "Name": "Sherri ",
+     "Score": 6450,
+     "Date": "14/9"
+   },
+   {
+     "Place": 8,
+     "Name": "Edith ",
+     "Score": 6300,
+     "Date": "27/9"
+   },
+   {
+     "Place": 9,
+     "Name": "Carissa ",
+     "Score": 5000,
+     "Date": "18/10"
+   },
+   {
+     "Place": 10,
+     "Name": "Stevie ",
+     "Score": 5500,
+     "Date": "19/10"
+   },
+   {
+     "Place": 11,
+     "Name": "Ronny ",
+     "Score": 4550,
+     "Date": "5/11"
+   },
+   {
+     "Place": 12,
+     "Name": "Kristy ",
+     "Score": 4350,
+     "Date": "30/11"
+   },
+   {
+     "Place": null,
+     "Name": "",
+     "Score": null,
+     "Date": ""
+   },
+   {
+     "Place": null,
+     "Name": "",
+     "Score": null,
+     "Date": ""
+   },
+   {
+     "Place": null,
+     "Name": "",
+     "Score": null,
+     "Date": ""
+   }
+  ]
